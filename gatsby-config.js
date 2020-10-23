@@ -59,7 +59,7 @@ module.exports = {
       //   object: {a: 1, b: '2', c: false},
       //   array: [{a: 1, b: '2', c: false}]
       // }
-      schemaType: postType,
+      schemaType: 'postType',
 
       // Request parameters
       // Only available from version 2.1.0
